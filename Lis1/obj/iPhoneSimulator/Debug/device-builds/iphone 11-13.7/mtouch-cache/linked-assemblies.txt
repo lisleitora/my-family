@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/Lis1.exe
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/mscorlib.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/Mono.Security.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.Xml.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.Numerics.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.Core.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app:/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache/1-Link/System.Drawing.Common.dll

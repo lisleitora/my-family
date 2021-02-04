@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+ojVhqYOVrU/WO+CrD5KfhSPRMNoK0pUvyV4b3AJiyUvYfJeZM/5ZhixVpVEo7byxhiVlIxup9f0EJd2+OkTg==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro15/Projects/Lis1/Lis1/Lis1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro15/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

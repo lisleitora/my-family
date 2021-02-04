@@ -1,0 +1,29 @@
+# Version: 14.8.0.3 (xcode12.3: c51fabee8
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.8.0.3/lib/mtouch/mtouch.exe \
+	--debug \
+	--sgen-conc \
+	'/target-framework:Xamarin.iOS,Version=v1.0' \
+	--http-message-handler=NSUrlSessionHandler \
+	'\"--cache=/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/mtouch-cache\"' \
+	--root-assembly=/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Lis1.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=13.6 \
+	'\"--sim=/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/Lis1.app\"' \
+	--executable=Lis1 \
+	--nolink \
+	--sdk=14.4 \
+	--aot-options=-O=-float32 \
+	--abi=x86_64 \
+	'\"--symbollist=/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/mtouch-symbols.list\"' \
+	--dsym=no \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--reference=/Users/macbookpro15/.nuget/packages/xamarin.essentials/1.5.3.2/lib/xamarinios10/Xamarin.Essentials.dll \
+	'@/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/response-file.rsp' \

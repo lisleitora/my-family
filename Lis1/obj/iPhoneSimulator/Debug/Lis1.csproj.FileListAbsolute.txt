@@ -1,0 +1,15 @@
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Lis1.exe
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Lis1.pdb
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/Lis1.csproj.CoreCompileInputs.cache
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/Lis1.csproj.CopyComplete
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/Lis1.exe
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/Lis1.pdb
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/Lis1.csprojAssemblyReference.cache
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/

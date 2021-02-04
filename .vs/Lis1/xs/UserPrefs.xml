@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F9AEBA8D-6076-4C5E-B147-67991F669B77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lis1/ViewController.cs">
+    <Files>
+      <File FileName="Lis1/Page2ViewController.cs" Line="30" Column="44" />
+      <File FileName="Lis1/ViewController.cs" Line="36" Column="84" />
+      <File FileName="Lis1/NamesSource.cs" />
+      <File FileName="Lis1/Main.storyboard" />
+      <File FileName="Lis1/PageCell.cs" />
+      <File FileName="Lis1/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lis1" expanded="True">
+            <Node name="Lis1" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lis1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.62209ED0-58B0-47E7-9623-68458F1E069E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

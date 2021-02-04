@@ -1,0 +1,29 @@
+# Version: 13.20.2.2 (d16-7): 817b6f72a
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.20.2.2/lib/mtouch/mtouch.exe \
+	--debug \
+	--sgen-conc \
+	'/target-framework:Xamarin.iOS,Version=v1.0' \
+	--http-message-handler=NSUrlSessionHandler \
+	'\"--cache=/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-cache\"' \
+	--root-assembly=/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/Lis1.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	'\"--sim=/Users/macbookpro15/Projects/Lis1/Lis1/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/Lis1.app\"' \
+	--executable=Lis1 \
+	--nolink \
+	--sdk=13.7 \
+	--targetver=13.6 \
+	--aot-options=-O=-float32 \
+	--abi=x86_64 \
+	'\"--symbollist=/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/mtouch-symbols.list\"' \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r=/Users/macbookpro15/.nuget/packages/xamarin.essentials/1.5.3.2/lib/xamarinios10/Xamarin.Essentials.dll \
+	'@/Users/macbookpro15/Projects/Lis1/Lis1/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/response-file.rsp' \
